@@ -1,0 +1,7 @@
+product_1:
+  name: "Producto 1"
+  tagline: "Descripción producto1"
+
+product_2:
+  name: "Producto 2"
+  tagline: "Descripción producto2"
